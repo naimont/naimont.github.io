@@ -1,0 +1,37 @@
+---
+title: "Project Summary"
+---
+
+My work focuses on translating microbiological data into risk-based food safety decisions that are operationally relevant. I integrate experimental virology, environmental microbiology, and quantitative modeling to address pathogen persistence, transfer, and control in foods and agricultural systems.
+
+### Norovirus Thermal Inactivation and Predictive Modeling
+
+Developed and validated kinetic and dynamic models to quantify inactivation of bacteria and viruses in foods, including oyster matrices. Applied R-based modeling, Monte Carlo simulation, and uncertainty analysis to generate predictive intervals and support risk-based process validation and cooking recommendations.
+
+### Agricultural Water Safety and FSMA Compliance
+
+Evaluated sanitizer efficacy in preharvest agricultural water under realistic conditions. Verified treatment strategies achieving FSMA-required 3-log microbial reduction, supporting risk-based water management decisions for produce safety.
+
+### Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support
+
+Applied QMRA frameworks to integrate experimental data with exposure and risk modeling to support food safety decision-making. This includes evaluating risks associated with consumption of raw milk, particularly for pathogens such as *Campylobacter*. In parallel, the work on oyster safety integrates thermal inactivation modeling with consumption practices to evaluate how time–temperature combinations during cooking reduce viral risks. These efforts support risk-based recommendations by linking microbial behavior with real-world practices and public health outcomes.
+
+### Pathogen Persistence in Agricultural Systems
+
+Characterized persistence of human norovirus and *E. coli* in agricultural water and soil systems. Generated data to inform contamination risk, transfer potential, and mitigation strategies relevant to preharvest environments.
+
+### Sanitation Validation and Disinfection Systems
+
+Validated EPA- and ASTM-aligned disinfectant systems for virus inactivation on food-contact and hard-to-clean surfaces under operational constraints. Achieved 4-log viral reductions through optimization of concentration, contact time, and application methods, including fogging approaches. Designed environmental monitoring strategies for contamination tracking and system-level risk identification.
+
+### Environmental Monitoring and Field-Based Pathogen Surveillance
+
+Conducted environmental monitoring and pathogen surveillance in aquatic food systems, including oysters, seawater, and wastewater. Applied FDA BAM-based detection methods to track enteric pathogens under real-world conditions and assess contamination sources and variability. This work supported development of sampling strategies, method implementation, and data interpretation for environmental monitoring programs, linking field data to risk assessment and food safety decision-making.
+
+### Infectivity Assessment and Method Development
+
+Advanced approaches to evaluate viral infectivity by integrating RT-qPCR, RNase pretreatment, and plaque assays. Addressed key limitations between molecular detection and infectivity, improving interpretation of pathogen reduction and persistence in applied food safety contexts.
+
+### Product Development, Processing, and Quality Integration
+
+Developed and validated antimicrobial interventions and thermal processing strategies in pilot-scale food systems, including high-risk ready-to-eat products. Demonstrated effective pathogen control (e.g., Listeria reduction) while maintaining sensory quality and product stability, integrating food safety with product performance and R&D decision-making.

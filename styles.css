@@ -1,0 +1,41 @@
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+main.content {
+  max-width: 1200px;
+}
+
+.quarto-container {
+  max-width: 1200px;
+}
+
+.page-columns {
+  grid-template-columns: 1fr 3fr;
+}
+
+.hero {
+  padding: 2rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero h2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 1.25rem;
+}
+
+.quarto-title-banner {
+  margin-bottom: 1rem;
+}

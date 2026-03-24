@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects Summary
+      - href: publications.qmd
+        text: Publications
+      - href: outreach.qmd
+        text: Outreach
+      - href: presentations.qmd
+        text: Presentations
+      - href: certificates.qmd
+        text: Certificates
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/naimont
+      - icon: link-45deg
+        href: https://zenodo.org/communities/food-environ-virol/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nmontazeri/
+  page-footer:
+    left: "© 2026 Naim Montazeri"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+
+editor: visual
