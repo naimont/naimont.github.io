@@ -2,16 +2,18 @@
 title: ""
 ---
 
-::: hero
+---
+title: ""
+---
+
+::: {.hero}
 # Naim Montazeri, Ph.D.
 
-## Microbial Food Safety \| Predictive Modeling \| Risk Assessment
+## Microbial Food Safety | Predictive Modeling | Risk Assessment
 
-I am an Assistant Professor at the University of Florida with over 15 years of experience in Microbial Food Safety (bacteria and viruses), risk assessment, and predictive modeling. My work integrates experimental microbiology with data-driven analysis, including R-based modeling and simulation, to evaluate pathogen persistence, transfer, and control in foods and agricultural systems. I have particular experience working with high-risk ready-to-eat (RTE) foods and agricultural water systems, applying risk-based strategies that support food safety decision-making and regulatory compliance, with working knowledge of regulatory and standard methods including FDA BAM, ISO, ASTM, AOAC, and EPA-aligned protocols.
+I am an Assistant Professor at the University of Florida with over 15 years of experience in microbial food safety, risk assessment, and predictive modeling. My work integrates experimental microbiology with R-based data analysis to evaluate pathogen persistence, transfer, and control in foods and agricultural systems, with particular experience in high-risk ready-to-eat foods, agricultural water, and risk-based strategies that support food safety decision-making and regulatory compliance. I also have experience applying FDA BAM, ISO, ASTM, AOAC, and EPA-aligned methods in food safety, sanitation, and validation studies.
 
-My work is inherently cross-functional, combining microbiology, data analysis, and applied food safety with science communication, stakeholder outreach, and mentoring of students and research personnel. I routinely translate complex microbiological data into actionable insights for diverse audiences, including industry, regulators, and academic collaborators.
-
-Prior to my current role, I worked on sanitation validation, product development, processing, and quality evaluation in both laboratory and pilot-scale environments. This includes validating antimicrobial interventions and sanitation systems, optimizing cooking and processing parameters for microbial safety, and assessing product quality attributes such as sensory performance and stability. This experience allows me to connect microbiological risk with practical processing, product performance, and R&D-driven decision making.
+My work is cross-functional, combining microbiology, data analysis, applied food safety, stakeholder outreach, science communication, and mentoring. Prior to my current role, I worked on sanitation validation, product development, processing, and quality evaluation in laboratory and pilot-scale environments, including antimicrobial interventions, cooking and processing parameters, sensory quality, and product stability.
 :::
 
 ## Experience Snapshot
@@ -30,7 +32,26 @@ Prior to my current role, I worked on sanitation validation, product development
 
 ## Quick Links
 
--   [GitHub](https://github.com/naimont)
--   [Zenodo](https://zenodo.org/communities/food-environ-virol/)
--   [LinkedIn](https://www.linkedin.com/in/nmontazeri/)
--   [Google Scholar](https://scholar.google.com/citations?hl=en&user=4oergwYAAAAJ&view_op=list_works&sortby=pubdate)
+<div class="quick-links">
+
+<a href="https://github.com/naimont" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub">
+  <span>GitHub</span>
+</a>
+
+<a href="https://zenodo.org/communities/food-environ-virol/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zenodo.svg" alt="Zenodo">
+  <span>Zenodo</span>
+</a>
+
+<a href="https://www.linkedin.com/in/nmontazeri/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn">
+  <span>LinkedIn</span>
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=4oergwYAAAAJ" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg" alt="Google Scholar">
+  <span>Google Scholar</span>
+</a>
+
+</div>

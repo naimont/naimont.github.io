@@ -1,0 +1,45 @@
+---
+title: "Technical Expertise"
+---
+
+My expertise integrates microbiology, data analysis, and applied food safety to support risk-based decision-making, process validation, and regulatory compliance.
+
+## Food Safety Systems & Regulatory
+
+HACCP, Preventive Controls (FSMA), Good Manufacturing Practices (GMP), Environmental Monitoring Programs (EMP), Sanitation Validation, Process Validation, Regulatory Compliance, Supplier and Ingredient Risk Assessment, Root Cause Analysis (RCA), Corrective and Preventive Actions (CAPA), Quality Systems
+
+------------------------------------------------------------------------
+
+## Microbiology & Food Safety
+
+Food Microbiology, Microbial Food Safety, Pathogen Detection and Enumeration, Enteric Viruses (Norovirus and Surrogates), *Escherichia coli*, *Listeria monocytogenes*, Pathogen Persistence and Transfer, High-Risk Ready-to-Eat (RTE) Foods, Agricultural Water Safety
+
+------------------------------------------------------------------------
+
+## Risk Assessment & Predictive Microbiology
+
+Quantitative Microbial Risk Assessment (QMRA), Exposure Assessment, Predictive Microbiology, Microbial Inactivation Kinetics, Thermal and Chemical Inactivation, Risk-Based Decision Modeling, Uncertainty and Variability Analysis
+
+------------------------------------------------------------------------
+
+## Data Analysis & Modeling
+
+R Programming, Statistical Modeling, Predictive Modeling, Monte Carlo Simulation, Data Analysis and Visualization, Experimental Design, Model Validation
+
+------------------------------------------------------------------------
+
+## Laboratory Methods & Validation
+
+FDA BAM, ISO, ASTM, AOAC, EPA-aligned methods, RT-qPCR, RNase Pretreatment, Plaque Assays, Infectivity Assays, Method Development and Validation, Microbiological Testing
+
+------------------------------------------------------------------------
+
+## Processing, Sanitation & Product Development
+
+Sanitation Systems and Disinfection Validation, Cleaning and Sanitizer Efficacy, Environmental Monitoring in Processing Environments, Thermal Processing and Cooking Validation, Product Development, Pilot-Scale Processing, Sensory Evaluation, Shelf-Life and Stability
+
+------------------------------------------------------------------------
+
+## Leadership & Cross-Functional Collaboration
+
+Laboratory Management, Project Leadership, Cross-Functional Collaboration, Training and Mentorship, Stakeholder Engagement, Science Communication, Translating Data into Operational Decisions

@@ -2,16 +2,26 @@
 title: "Outreach & Extension"
 ---
 
+::: {.on-this-page}
+## On this page
+
+- [Extension Publications](#extension-publications)
+- [Outreach, Training, and Public Engagement](#outreach-training-and-public-engagement)
+- [Selected Presentations and Engagement Activities](#selected-presentations-and-engagement-activities)
+:::
+
 ### Extension publications
+
 Note: EDIS: Electronic Data Information Source (EDIS) is a UF/IFAS peer-reviewed publication system used to share extension scholarship.
 
 -   Razieh Sadat Mirmahdi, **Naim Montazeri**, Razieh Farzad\*. Regulating Molluscan Shellfish: US and Florida Oversight and the Role of FDA’s Traceability Rule (FSMA 204) *UF/IFAS EDIS*. (under revision).
 -   Samantha Dicker, Razieh Sadat Mirmahdi, and **Naim Montazeri\***. Cook it right: a guide to safeguard your food through proper cooking. *UF/IFAS EDIS*. <https://edis.ifas.ufl.edu/publication/FS471.>
 -   Razieh Sadat Mirmahdi, Samantha Dicker, Razieh Farzad, Andrew J. MacIntosh, Amarat Simonne, and **Naim Montazeri\***. 2025. Ensuring safe oysters: essential handling, preparing, and cooking practices. *UF/IFAS EDIS*, FSHN25-8. <https://doi.org/10.32473/edis-fs470-2025.>
--   Siman Liu, **Naim** **Montazeri**, and Keith Schneider\*. 2022. Bacteriophages: a potential mitigation strategy for path-ogenic bacteria in food. UF/IFAS EDIS. <https://doi.org/10.32473/edis-FS438-2022.>
+-   Siman Liu, **Naim** **Montazeri**, and Keith Schneider\*. 2022. Bacteriophages: a potential mitigation strategy for pathogenic bacteria in food. UF/IFAS EDIS. <https://doi.org/10.32473/edis-FS438-2022.>
 -   Jaysankar De, Christopher R. Pabst, **Naim Montazeri**, Melissa Jones, Renee Goodrich Schneider, and Keith Schneider\*. 2018. Preventing foodborne illness: norovirus. *UF/IFAS EDIS*, FS12900. <http://edis.ifas.ufl.edu/pdffiles/FS/FS12900.pdf.>
 
 ### Outreach, Training, and Public Engagement
+
 -   Invited speaker on norovirus control, sanitation strategies, and food safety systems across academic, industry, and extension audiences.
 
 -   Delivered extension webinars on COVID-19 and food safety through UF/IFAS virtual programs.
@@ -23,6 +33,7 @@ Note: EDIS: Electronic Data Information Source (EDIS) is a UF/IFAS peer-reviewed
 -   Mentored students and trainees in food safety, microbiology, and applied research careers.
 
 ### Selected Presentations and Engagement Activities
+
 -   **Human norovirus: surface disinfection strategies** – UF/IFAS In-Service Training (2020).
 -   **Food safety and COVID-19** – UF/IFAS Virtual Office Hours (2020).
 -   **Viruses: our friends and foes** – UF FSHN Club (2019).

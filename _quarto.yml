@@ -18,6 +18,8 @@ website:
         text: Presentations
       - href: certificates.qmd
         text: Certificates
+      - href: technical.qmd
+        text: Technical Expertise
       - href: contact.qmd
         text: Contact
     right:
