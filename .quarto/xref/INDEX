@@ -25,5 +25,11 @@
   },
   "about.qmd": {
     "about.html": "ee5a8b1a"
+  },
+  "projects/microbial-thermal.qmd": {
+    "microbial-thermal.html": "1283b738"
+  },
+  "projects/water-sanitation.qmd": {
+    "water-sanitation.html": "ce8dd1db"
   }
 }

@@ -2,28 +2,35 @@
 title: "Project Summary"
 ---
 
+**Naim Montazeri, Ph.D.**  
+*Microbial Food Safety | Predictive Modeling | Risk Assessment*
+
 My work focuses on translating microbiological data into risk-based food safety decisions that are operationally relevant. I integrate experimental virology, environmental microbiology, and quantitative modeling to address pathogen persistence, transfer, and control in foods and agricultural systems.
 
 ::: {.on-this-page}
 ## On this page
 
-- [Norovirus Thermal Inactivation and Predictive Modeling](#norovirus-thermal-inactivation-and-predictive-modeling)
-- [Agricultural Water Safety and FSMA Compliance](#agricultural-water-safety-and-fsma-compliance)
+- [Microbial Thermal Inactivation and Risk-Based Modeling](#microbial-thermal-inactivation-and-risk-based-modeling)
+- [Agricultural Water Treatment and FSMA Compliance](#agricultural-water-treatment-and-fsma-compliance)
 - [Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support](#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support)
 - [Pathogen Persistence in Agricultural Systems](#pathogen-persistence-in-agricultural-systems)
-- [Environmental Monitoring and Field-Based Pathogen Surveillance](#environmental-monitoring-and-field-based-pathogen-surveillance)
 - [Sanitation Validation and Disinfection Systems](#sanitation-validation-and-disinfection-systems)
+- [Environmental Monitoring and Field-Based Pathogen Surveillance](#environmental-monitoring-and-field-based-pathogen-surveillance)
 - [Infectivity Assessment and Method Development](#infectivity-assessment-and-method-development)
 - [Product Development, Processing, and Quality Integration](#product-development-processing-and-quality-integration)
 :::
 
-### Norovirus Thermal Inactivation and Predictive Modeling {#norovirus-thermal-inactivation-and-predictive-modeling}
+### Microbial Thermal Inactivation and Risk-Based Modeling {#microbial-thermal-inactivation-and-risk-based-modeling}
 
-Developed and validated kinetic and dynamic models to quantify inactivation of bacteria and viruses in foods, including oyster matrices. Applied R-based modeling, Monte Carlo simulation, and uncertainty analysis to generate predictive intervals and support risk-based process validation and cooking recommendations.
+Developed and validated kinetic and dynamic models to quantify thermal inactivation of bacteria (*Vibrio parahaemolyticus*) and viruses (human norovirus) in high-risk foods, including oysters. Applied R-based linear and non-linear modeling, Monte Carlo simulation, and uncertainty analysis to estimate key inactivation parameters such as *D*- and *z*-values. These predictive models support risk-based process validation and inform cooking recommendations, contributing to the development of validated time–temperature controls for high-risk foods.
 
-### Agricultural Water Safety and FSMA Compliance {#agricultural-water-safety-and-fsma-compliance}
+<p><a class="more-info" href="projects/microbial-thermal.html">More info →</a></p>
 
-Evaluated sanitizer efficacy in preharvest agricultural water under realistic conditions. Verified treatment strategies achieving FSMA-required 3-log microbial reduction, supporting risk-based water management decisions for produce safety.
+### Agricultural Water Treatment and FSMA Compliance {#agricultural-water-treatment-and-fsma-compliance}
+
+Evaluated sanitizer efficacy in preharvest agricultural water collected from Florida farms under realistic conditions. Verified treatment performance across different contact times, temperatures, and sanitizer concentrations. Using kinetic modeling, treatment conditions required to achieve FSMA’s 3-log microbial reduction target were estimated, supporting risk-based water management decisions for produce safety. In related work, novel treatment approaches such as chitosan microparticles were evaluated, achieving up to a 2-log reduction of norovirus in fecally polluted water within 10 minutes.
+
+<p><a class="more-info" href="projects/water-sanitation.html">More info →</a></p>
 
 ### Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support {#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support}
 

@@ -2,19 +2,22 @@
 title: "Featured Publications"
 ---
 
-::: {.on-this-page}
+**Naim Montazeri, Ph.D.**\
+*Microbial Food Safety \| Predictive Modeling\| Risk Assessment*
+
+::: on-this-page
 ## On this page
 
-- [Microbial Hazard Mitigation in Food and Agricultural Water](#microbial-hazard-mitigation-in-food-and-agricultural-water)
-- [Environmental Monitoring and Microbial Persistence](#environmental-monitoring-and-microbial-persistence)
-- [Contact Surface Sanitation](#contact-surface-sanitation)
-- [Method Validation](#method-validation)
-- [Product Development, Processing, and FSQA Integration](#product-development-processing-and-fsqa-integration)
+-   [Microbial Hazard Mitigation in Food and Agricultural Water](#microbial-hazard-mitigation-in-food-and-agricultural-water)
+-   [Environmental Monitoring and Microbial Persistence](#environmental-monitoring-and-microbial-persistence)
+-   [Contact Surface Sanitation](#contact-surface-sanitation)
+-   [Method Validation](#method-validation)
+-   [Product Development, Processing, and FSQA Integration](#product-development-processing-and-fsqa-integration)
 :::
 
 Note: \* denotes the corresponding author.
 
-### Microbial Hazard Mitigation in Food and Agricultural Water
+### Microbial Hazard Mitigation in Food and Agricultural Water {#microbial-hazard-mitigation-in-food-and-agricultural-water}
 
 -   Samantha Dicker, Alberto Garre Pérez, Weifan Wu, Abigail Modeste, Kelani J. Saez Montoya, Razieh Sadat Mirmahdi, Andrew J. MacIntosh, Arie H. Havelaar, **Naim Montazeri\***. 2026. Kinetic modeling of thermal inactivation of norovirus in the digestive diverticula of Eastern oysters (*Crassostrea virginica*). Under review.
 
