@@ -1,0 +1,79 @@
+---
+title: "Microbial Persistence in Food Systems"
+---
+
+<p><a class="back-link" href="../projects.html">← Back to Research Projects</a></p>
+
+## Project Summary
+
+Characterized persistence of pathogenic bacteria (*Escherichia coli* and *Campylobacter jejuni*) and viruses (human norovirus and coronavirus) across food and environmental matrices including agricultural water, soil, raw milk, and food-contact surfaces. Generated quantitative data on survival dynamics under realistic environmental conditions to inform contamination risk, exposure potential, and risk-based mitigation strategies.
+
+::: on-this-page
+## On this page
+
+-   [Why It Matters](#why-it-matters)
+-   [Key Contributions](#key-contributions)
+-   [Research Highlights](#research-highlights)
+-   [Peer-reviewed Publications](#peer-reviewed-publications)
+-   [Presentations](#presentations)
+-   [Relevant Skills and Methods](#relevant-skills-and-methods)
+-   [Data and Code Availability](#data-and-code-availability)
+:::
+
+## Why It Matters {#why-it-matters}
+
+Understanding pathogen persistence is critical for evaluating contamination risk and effectiveness of control strategies across the food system. Many food safety decisions rely on assumptions about microbial survival that do not reflect real-world conditions.
+
+This work generates persistence data under realistic environmental conditions across multiple matrices, supporting more accurate risk-based decision-making. The results highlight key differences between viral pathogens and bacterial indicators, informing more appropriate validation, monitoring, and mitigation strategies in food safety systems.
+
+## Key Contributions {#key-contributions}
+
+-   Characterized persistence of viruses and bacteria across agricultural water, soil, dairy, and surface environments\
+-   Generated survival data under realistic environmental and storage conditions\
+-   Developed kinetic models to describe microbial die-off and persistence\
+-   Identified limitations of bacterial indicators in representing viral behavior\
+-   Provided quantitative inputs to support risk-based evaluation of contamination and exposure
+
+## Research Highlights {#research-highlights}
+
+In agricultural water and soil systems, evaluated persistence of human norovirus and *Escherichia coli* using samples collected from Florida farms, representing real-world preharvest conditions. Results demonstrated differences in survival behavior and highlighted limitations of bacterial indicators in representing viral persistence.
+
+In dairy systems, modeled persistence of *Campylobacter jejuni* in refrigerated raw milk to characterize survival patterns relevant to consumer exposure. This work integrates literature-derived data into kinetic modeling frameworks to support evaluation of risks associated with raw milk consumption.
+
+In related work, evaluated persistence of coronavirus on food-contact surfaces used in food retail under varying environmental conditions (temperature, relative humidity, organic load). Surface types and environmental parameters were selected in consultation with stakeholders to reflect realistic operational scenarios, supporting evaluation of surface-mediated transmission risks and informing sanitation and hygiene practices.
+
+## Peer-reviewed Publications {#peer-reviewed-publications}
+
+-   Nuradeen Garba Yusuf and **Naim Montazeri**\*. 2026. Persistence of human norovirus and *Escherichia coli* in preharvest agricultural water. *Science of the Total Environment*, 1011: 181155. <https://doi.org/10.1016/j.scitotenv.2025.181155>.
+
+-   Nuradeen Garba Yusuf, Courtney F Aminirad, Kalmia E Kniel, Sarah Strauss, Michelle D. Danyluk, Keith R. Schneider, and **Naim Montazeri**\*. 2025. Human norovirus persists longer than *Escherichia coli* in agricultural sandy soil, independent of plant decaying materials. *Scientific Reports*, 16: 1935. <https://doi.org/10.1038/s41598-025-31728-1>.
+
+## Presentations {#presentations}
+
+-   **Naim Montazeri**, Angelica Godinez Oviedo, Minho Kim, Scott Meschke, Alexis Mraz. Risk of campylobacteriosis from raw milk consumption in the United States. *Society for Risk Analysis Annual Meeting*. Austin, TX. December 8–12, 2024.
+
+-   Simon Riley, Arie Havelaar, and **Naim Montazeri**\*. Inferential modeling of coronavirus persistence and surface-mediated transfer to human skin. *IAFP Annual Meeting*, Long Beach, CA. July 14–17, 2024.
+
+## Relevant Skills and Methods {#relevant-skills-and-methods}
+
+-   Environmental and food microbiology\
+-   Persistence and survival studies\
+-   Experimental design under realistic environmental conditions\
+-   Culture-based and molecular techniques (FDA BAM) for viral and bacterial detection\
+-   Controlled environmental conditions (temperature, relative humidity) using ASTM-aligned methods\
+-   Predictive modeling of microbial survival using R\
+-   Data-driven interpretation for risk-based decision making
+
+## Data and Code Availability {#data-and-code-availability}
+
+Supporting datasets, modeling workflows, and analysis scripts are publicly available:
+
+-   **Microbial persistence in agricultural water (2026)**
+    -   Zenodo: <https://doi.org/10.5281/zenodo.15374156>\
+    -   GitHub: <https://github.com/naimont/Pathogen_Persistance_AgWater.git>
+-   **Microbial persistence in agricultural soil (2026)**
+    -   Zenodo: <https://doi.org/10.5281/zenodo.16230597>\
+    -   GitHub: <https://github.com/naimont/Pathogen_Persistance_AgSoil>
+-   **QMRA of campylobacteriosis from raw milk (2026, under embargo)**
+    -   Zenodo: <https://doi.org/10.5281/zenodo.15390146>\
+    -   GitHub: <https://github.com/naimont/Campy_raw_milk_QMRA>

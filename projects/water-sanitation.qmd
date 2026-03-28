@@ -2,53 +2,59 @@
 title: "Agricultural Water Treatment and FSMA Compliance"
 ---
 
-<p><a class="back-link" href="../projects.html">← Back to Project Portfolio</a></p>
+<p><a class="back-link" href="../projects.html">← Back to Research Projects</a></p>
 
 ## Project Summary
 
-Evaluated sanitizer efficacy in preharvest agricultural water collected from Florida farms under realistic conditions. Verified performance of chlorine-based sanitizers across different contact times, temperatures, and sanitizer concentrations. Applied kinetic modeling to estimate the treatment conditions required to achieve FSMA’s 3-log microbial reduction target, supporting risk-based water management decisions for produce safety. In related work, evaluated novel treatment approaches such as chitosan microparticles, which reduced microbial loads in fecally polluted water by up to 2 log.
+Evaluated sanitizer efficacy in preharvest agricultural water collected from Florida farms under realistic conditions. Verified performance of chlorine-based sanitizers across contact times, temperatures, and concentrations. Applied kinetic modeling to estimate treatment conditions required to achieve FSMA’s 3-log microbial reduction target, supporting validation of agricultural water treatment strategies and risk-based water management decisions for produce safety. In related work, evaluated novel treatment approaches such as chitosan microparticles, achieving up to a 2-log reduction of microbial loads in fecally polluted water.
 
-## Why It Matters
+::: on-this-page
+## On this page
 
-Agricultural water quality varies substantially across production environments, which directly affects treatment efficacy and food safety outcomes. This work addresses that challenge by evaluating microbial control strategies under realistic water conditions rather than idealized laboratory matrices.
+-   [Why It Matters](#why-it-matters)
+-   [Key Contributions](#key-contributions)
+-   [Peer-reviewed Publications](#peer-reviewed-publications)
+-   [Relevant Skills and Methods](#relevant-skills-and-methods)
+-   [Data and Code Availability](#data-and-code-availability)
+:::
 
-The results are directly relevant to produce operations and regulatory compliance, as they identify treatment conditions required to achieve FSMA-aligned microbial reduction targets under variable field conditions. This supports validation of agricultural water treatment strategies and implementation of risk-based preventive controls.
+## Why It Matters {#why-it-matters}
 
-In multiple cases, viral targets demonstrated greater resistance than bacterial indicators under comparable treatment conditions, highlighting limitations of indicator-based validation approaches. This underscores the importance of integrating experimental data with kinetic modeling to inform risk-based water management decisions that account for variability in microbial responses.
+Agricultural water quality varies across production environments, directly impacting treatment efficacy and food safety outcomes. This work evaluates microbial control strategies under realistic field conditions rather than idealized laboratory matrices, providing data that are directly applicable to produce operations.
 
-## Key Contributions
+The results support FSMA-aligned validation of agricultural water treatment systems by identifying treatment conditions required to achieve target microbial reductions under variable conditions. This enables implementation of risk-based preventive controls grounded in quantitative performance data.
 
--   Evaluated sanitizer efficacy in agricultural water collected from commercial farm environments
--   Quantified treatment performance across different contact times, temperatures, and concentrations
--   Applied kinetic modeling to estimate treatment conditions required to achieve FSMA’s 3-log microbial reduction target
--   Assessed novel mitigation approaches, including chitosan microparticles, for microbial reduction in fecally polluted water
--   Generated data to support risk-based agricultural water management decisions
+In multiple cases, viral targets demonstrated greater resistance than bacterial indicators under comparable treatment conditions, highlighting limitations of indicator-based validation approaches. These findings support the need for risk-based frameworks that account for pathogen-specific behavior in treatment validation.
 
-## Peer-reviewed Publications
+## Key Contributions {#key-contributions}
 
--   Ashlyn Lake, Yusuf Nuradeen Garba, Mya Maybank, Sarah Johnson, Christopher K. Mutch, Alexander Mueck, Simon Riley, Arie H. Havelaar, **Naim Montazeri***. 2025. E*ffectiveness of chlorine against Tulane virus, a human norovirus surrogate, and *Escherichia coli* in agricultural water used for frost protection of produce. *Journal of Food Protection*, 88(6): 100524. <https://doi.org/10.1016/j.jfp.2025.100524>.
+-   Evaluated sanitizer efficacy in agricultural water from commercial farm environments
+-   Quantified treatment performance across contact time, temperature, and concentration
+-   Applied kinetic modeling to estimate conditions required to achieve FSMA 3-log reduction targets
+-   Assessed novel mitigation approaches, including chitosan microparticles, for microbial reduction
+-   Generated data to support risk-based agricultural water management and validation strategies
 
--   Candace Barnes, Rebecca Barber, Keith Schneider, Michelle Danyluk, Anita Wright, Melissa Jones, and **Naim Montazeri***. 2021. A*pplication of chitosan microparticles against human norovirus. *Journal of Food Protection*, 84(12): 2092–2098. <https://doi.org/10.4315/jfp-21-220>.
+## Peer-reviewed Publications {#peer-reviewed-publications}
 
-## Relevant Skills and Methods
+-   Ashlyn Lake, Yusuf Nuradeen Garba, Mya Maybank, Sarah Johnson, Christopher K. Mutch, Alexander Mueck, Simon Riley, Arie H. Havelaar, **Naim Montazeri**\*. 2025. Effectiveness of chlorine against Tulane virus, a human norovirus surrogate, and *Escherichia coli* in agricultural water used for frost protection of produce. *Journal of Food Protection*, 88(6): 100524. <https://doi.org/10.1016/j.jfp.2025.100524>.
 
--   Agricultural water microbiology
--   Sanitizer validation and performance testing
--   FSMA-aligned microbial reduction assessment
--   Kinetic modeling
--   R programming
--   Experimental design under realistic environmental conditions
--   Viral and bacterial reduction assessment using culture- and molecular-based FDA BAM methods
+-   Candace Barnes, Rebecca Barber, Keith Schneider, Michelle Danyluk, Anita Wright, Melissa Jones, and **Naim Montazeri**\*. 2021. Application of chitosan microparticles against human norovirus. *Journal of Food Protection*, 84(12): 2092–2098. <https://doi.org/10.4315/jfp-21-220>.
+
+## Relevant Skills and Methods {#relevant-skills-and-methods}
+
+-   Agricultural water microbiology\
+-   Sanitizer validation and performance testing\
+-   FSMA-aligned microbial reduction assessment\
+-   Kinetic modeling\
+-   R programming\
+-   Experimental design under realistic environmental conditions\
+-   Viral and bacterial reduction assessment using FDA BAM methods\
 -   Risk-based interpretation of treatment performance
 
-## Data and Code Availability
+## Data and Code Availability {#data-and-code-availability}
 
-Supporting datasets, modeling workflows, and analysis scripts are publicly available to support reproducibility and transparency:
+Supporting datasets, modeling workflows, and analysis scripts are publicly available:
 
-- **Chlorine inactivation of enteric pathogens in agricultural water: data and analysis code** (2025)  
-  Zenodo (dataset and archived code): <https://doi.org/10.5281/zenodo.15249558>  
-  GitHub (modeling scripts and workflows): <https://github.com/naimont/CONTACT_Obj1_m1/>
-
-## Related Links
-
--   [Full list of publications](../publications.html)
+-   **Chlorine inactivation of enteric pathogens in agricultural water (2025)**
+    -   Zenodo (dataset and archived code): <https://doi.org/10.5281/zenodo.15249558>\
+    -   GitHub (modeling scripts and workflows): <https://github.com/naimont/CONTACT_Obj1_m1/>

@@ -31,5 +31,11 @@
   },
   "projects/water-sanitation.qmd": {
     "water-sanitation.html": "ce8dd1db"
+  },
+  "projects/microbial-persistence.qmd": {
+    "microbial-persistence.html": "3c7099f3"
+  },
+  "expertise.qmd": {
+    "expertise.html": "6a117618"
   }
 }

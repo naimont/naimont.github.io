@@ -1,23 +1,20 @@
 ---
-title: "Project Summary"
+title: "Research Projects"
 ---
-
-**Naim Montazeri, Ph.D.**  
-*Microbial Food Safety | Predictive Modeling | Risk Assessment*
 
 My work focuses on translating microbiological data into risk-based food safety decisions that are operationally relevant. I integrate experimental virology, environmental microbiology, and quantitative modeling to address pathogen persistence, transfer, and control in foods and agricultural systems.
 
-::: {.on-this-page}
+::: on-this-page
 ## On this page
 
-- [Microbial Thermal Inactivation and Risk-Based Modeling](#microbial-thermal-inactivation-and-risk-based-modeling)
-- [Agricultural Water Treatment and FSMA Compliance](#agricultural-water-treatment-and-fsma-compliance)
-- [Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support](#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support)
-- [Pathogen Persistence in Agricultural Systems](#pathogen-persistence-in-agricultural-systems)
-- [Sanitation Validation and Disinfection Systems](#sanitation-validation-and-disinfection-systems)
-- [Environmental Monitoring and Field-Based Pathogen Surveillance](#environmental-monitoring-and-field-based-pathogen-surveillance)
-- [Infectivity Assessment and Method Development](#infectivity-assessment-and-method-development)
-- [Product Development, Processing, and Quality Integration](#product-development-processing-and-quality-integration)
+-   [Microbial Thermal Inactivation and Risk-Based Modeling](#microbial-thermal-inactivation-and-risk-based-modeling)
+-   [Agricultural Water Treatment and FSMA Compliance](#agricultural-water-treatment-and-fsma-compliance)
+-   [Microbial Persistence in Food Systems](#microbial-persistence-in-food-systems)
+-   [Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support](#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support)
+-   [Contact Surface Sanitation Validation and Disinfection Systems](#surface_sanitation-validation-and-disinfection-systems)
+-   [Environmental Monitoring and Field-Based Pathogen Surveillance](#environmental-monitoring-and-field-based-pathogen-surveillance)
+-   [Infectivity Assessment and Method Development](#infectivity-assessment-and-method-development)
+-   [Product Development, Processing, and Quality Integration](#product-development-processing-and-quality-integration)
 :::
 
 ### Microbial Thermal Inactivation and Risk-Based Modeling {#microbial-thermal-inactivation-and-risk-based-modeling}
@@ -32,15 +29,17 @@ Evaluated sanitizer efficacy in preharvest agricultural water collected from Flo
 
 <p><a class="more-info" href="projects/water-sanitation.html">More info →</a></p>
 
+### Microbial Persistence in Food Systems {#microbial-persistence-in-food-systems}
+
+Characterized persistence of pathogenic bacteria (*Escherichia coli* and *Campylobacter jejuni*) and viruses (human norovirus, Tulane virus as a surrogate, and coronavirus) across food and environmental matrices including agricultural water, soil, raw milk, and food-contact surfaces. Generated quantitative data on survival dynamics under realistic conditions to inform contamination risk, exposure potential, and limitations of indicator-based approaches.
+
+<p><a class="more-info" href="projects/microbial-persistence.html">More info →</a></p>
+
 ### Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support {#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support}
 
 Applied QMRA frameworks to integrate experimental data with exposure and risk modeling to support food safety decision-making. This includes evaluating risks associated with consumption of raw milk, particularly for pathogens such as *Campylobacter*. In parallel, the work on oyster safety integrates thermal inactivation modeling with consumption practices to evaluate how time–temperature combinations during cooking reduce viral risks. These efforts support risk-based recommendations by linking microbial behavior with real-world practices and public health outcomes.
 
-### Pathogen Persistence in Agricultural Systems {#pathogen-persistence-in-agricultural-systems}
-
-Characterized persistence of human norovirus and *E. coli* in agricultural water and soil systems. Generated data to inform contamination risk, transfer potential, and mitigation strategies relevant to preharvest environments.
-
-### Sanitation Validation and Disinfection Systems {#sanitation-validation-and-disinfection-systems}
+### Contact Surface Sanitation Validation and Disinfection Systems {#surface-sanitation-validation-and-disinfection-systems}
 
 Validated EPA- and ASTM-aligned disinfectant systems for virus inactivation on food-contact and hard-to-clean surfaces under operational constraints. Achieved 4-log viral reductions through optimization of concentration, contact time, and application methods, including fogging approaches. Designed environmental monitoring strategies for contamination tracking and system-level risk identification.
 

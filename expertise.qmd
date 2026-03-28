@@ -1,9 +1,6 @@
 ---
-title: "Technical Expertise"
+title: "Expertise"
 ---
-
-**Naim Montazeri, Ph.D.**\
-*Microbial Food Safety \| Predictive Modeling\| Risk Assessment*
 
 My expertise integrates microbiology, data analysis, and applied food safety to support risk-based decision-making, process validation, and regulatory compliance.
 

@@ -2,26 +2,39 @@
 title: "Microbial Thermal Inactivation and Risk-Based Modeling"
 ---
 
-<p><a class="back-link" href="../projects.html">← Back to Project Portfolio</a></p>
+<p><a class="back-link" href="../projects.html">← Back to Research Projects</a></p>
 
 ## Project Summary
 
 Developed and validated kinetic and dynamic models to quantify thermal inactivation of bacteria (*Vibrio parahaemolyticus*) and viruses (human norovirus) in high-risk foods, including oysters. Applied R-based linear and non-linear modeling, Monte Carlo simulation, and uncertainty analysis to estimate key inactivation parameters such as *D*- and *z*-values. These predictive models support risk-based process validation and inform cooking recommendations. This work supports development of validated time–temperature controls for high-risk foods.
 
-## Why It Matters
+::: on-this-page
+## On this page
 
-Thermal process validation for high-risk foods often relies on bacterial indicators that may not accurately represent viral behavior. This work addresses this limitation by integrating experimental data with predictive modeling to characterize microbial inactivation under realistic processing conditions.
+-   [Why It Matters](#why-it-matters)
+-   [Key Contributions](#key-contributions)
+-   [Publications](#publications)
+-   [Relevant Skills and Methods](#relevant-skills-and-methods)
+-   [Relevant Models and Analytical Tools](#relevant-models-and-analytical-tools)
+-   [Data and Code Availability](#data-and-code-availability)
+:::
+
+## Why It Matters {#why-it-matters}
+
+Thermal process validation for high-risk foods often relies on bacterial indicators that may not accurately represent viral behavior. This work directly informs cooking validation, HACCP critical limits, and regulatory-aligned process controls.
 
 In parallel, survey data collected from U.S. restaurants on oyster cooking practices ([see study](https://doi.org/10.1371/journal.pone.0327330)) were used to inform model inputs and validate assumptions against real-world conditions. This ensures the resulting recommendations are directly applicable to industry practices rather than idealized laboratory scenarios.
 
-## Key Contributions
+## Key Contributions {#key-contributions}
 
 -   Developed kinetic and dynamic inactivation models for bacteria and viruses
 -   Applied R-based modeling, Monte Carlo simulation, and uncertainty analysis, with workflows and data deposited in public repositories
 -   Estimated key parameters including *D*- and *z*-values
 -   Supported validation of time–temperature combinations for high-risk foods
 
-## Peer-reviewed Publications
+## Publications {#publications}
+
+### Peer-reviewed
 
 -   Samantha Dicker, Alberto Garre Pérez, Weifan Wu, Abigail Modeste, Kelani J. Saez Montoya, Razieh Sadat Mirmahdi, Andrew J. MacIntosh, Arie H. Havelaar, **Naim Montazeri***.* 2026. Kinetic modeling of thermal inactivation of norovirus in the digestive diverticula of Eastern oysters (*Crassostrea virginica*) (*under review*).
 
@@ -31,7 +44,15 @@ In parallel, survey data collected from U.S. restaurants on oyster cooking pract
 
 -   Razieh Sadat Mirmahdi, Samantha Dicker, Nuradeen Yusuf Garba, and **Naim Montazeri***.* 2025. Navigating uncertainties in RT-qPCR and plaque assay for infectivity assessment of norovirus*. Food and Environmental Virology*, 17(22). <https://doi.org/10.1007/s12560-024-09632-0>.
 
-## Relevant Skills and Methods
+### Extension and outreach
+
+-   Razieh Sadat Mirmahdi, **Naim Montazeri**, Razieh Farzad\*. Regulating Molluscan Shellfish: US and Florida Oversight and the Role of FDA’s Traceability Rule (FSMA 204). *UF/IFAS EDIS*. (under revision).
+
+-   Samantha Dicker, Razieh Sadat Mirmahdi, and **Naim Montazeri**\*. Cook it right: a guide to safeguard your food through proper cooking. *UF/IFAS EDIS*. <https://edis.ifas.ufl.edu/publication/FS471>.
+
+-   Razieh Sadat Mirmahdi, Samantha Dicker, Razieh Farzad, Andrew J. MacIntosh, Amarat Simonne, and **Naim Montazeri**\*. 2025. Ensuring safe oysters: essential handling, preparing, and cooking practices. *UF/IFAS EDIS*, FSHN25-8. <https://doi.org/10.32473/edis-fs470-2025>.
+
+## Relevant Skills and Methods {#relevant-skills-and-methods}
 
 -   Predictive microbiology
 -   R programming
@@ -41,7 +62,7 @@ In parallel, survey data collected from U.S. restaurants on oyster cooking pract
 -   Thermal process validation
 -   RT-qPCR and infectivity assays
 
-## Relevant Models and Analytical Tools
+## Relevant Models and Analytical Tools {#relevant-models-and-analytical-tools}
 
 -   Kinetic modeling
 -   Dynamic inactivation modeling
@@ -49,22 +70,16 @@ In parallel, survey data collected from U.S. restaurants on oyster cooking pract
 -   Predictive intervals
 -   Risk-based interpretation of time–temperature relationships
 
-## Data and Code Availability
+## Data and Code Availability {#data-and-code-availability}
 
 All modeling workflows, datasets, and analysis scripts are publicly available to support reproducibility and transparency:
 
--   **Thermal inactivation of norovirus in the digestive diverticula of Eastern oysters (*Crassostrea virginica*)** (2026)\
-    Zenodo (dataset and archived code): <https://doi.org/10.5281/zenodo.15609797>\
-    GitHub (modeling scripts and workflows): <https://github.com/naimont/NoV-thermal-oyster-digestive-tissue>
-
+-   **Thermal inactivation of norovirus in the digestive diverticula of Eastern oysters (*Crassostrea virginica*)** (2026)
+    -   Zenodo (dataset and archived code): <https://doi.org/10.5281/zenodo.15609797>\
+    -   GitHub (modeling scripts and workflows): <https://github.com/naimont/NoV-thermal-oyster-digestive-tissue>
 -   **Navigating uncertainties in RT-qPCR and infectivity assessment of norovirus** (2025)\
-    Zenodo (dataset and archived code): <https://doi.org/10.5281/zenodo.18245738>\
-    GitHub (analysis and modeling workflows): <https://github.com/naimont/uncertainities_in_NoV_detection>
-
--   **Oyster cooking practices in the United States-based restaurants – a survey** (2025)\
-    Zenodo (dataset): <https://doi.org/10.5281/zenodo.15347152>\
-    GitHub (data and analysis): <https://github.com/naimont/oyster-cooking-techniques-survey>
-
-## Related Links
-
--   [Full list of publications](../publications.html)
+    -   Zenodo (dataset and archived code): <https://doi.org/10.5281/zenodo.18245738>\
+    -   GitHub (analysis and modeling workflows): <https://github.com/naimont/uncertainities_in_NoV_detection>
+-   **Oyster cooking practices in the United States-based restaurants – a survey** (2025)
+    -   Zenodo (dataset): <https://doi.org/10.5281/zenodo.15347152>
+    -   GitHub (data and analysis): <https://github.com/naimont/oyster-cooking-techniques-survey>

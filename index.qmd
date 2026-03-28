@@ -2,10 +2,10 @@
 title: ""
 ---
 
-::: {.hero}
-
+::: hero
 # Naim Montazeri, Ph.D.
-## Microbial Food Safety | Predictive Modeling | Risk Assessment
+
+## Microbial Food Safety \| Predictive Modeling \| Risk Assessment
 
 I am an Assistant Professor at the University of Florida with over 15 years of experience in microbial food safety, risk assessment, and predictive modeling. My work integrates experimental microbiology with R-based data analysis to evaluate pathogen persistence, transfer, and control in foods and agricultural systems, with particular experience in high-risk ready-to-eat foods, agricultural water, and risk-based strategies that support food safety decision-making and regulatory compliance. I also have experience applying FDA BAM, ISO, ASTM, AOAC, and EPA-aligned methods in food safety, sanitation, and validation studies.
 
@@ -14,11 +14,11 @@ My work is cross-functional, combining microbiology, data analysis, applied food
 
 ## Experience Snapshot
 
-- Assistant Professor, University of Florida — Microbial Food Safety (2018–present)
-- Postdoctoral Researcher, North Carolina State University — Food Virology (2015–2018)
-- Research Assistant, Louisiana State University — Food and Environmental Microbiology (2012–2015)
-- Research Assistant, University of Alaska Fairbanks — Food Safety and Quality (2009–2011)
-- Food Quality Assurance Intern, Pasargad Laboratory (2008–2009)
+-   Assistant Professor, University of Florida — Microbial Food Safety (2018–present)
+-   Postdoctoral Researcher, North Carolina State University — Food Virology (2015–2018)
+-   Research Assistant, Louisiana State University — Food and Environmental Microbiology (2012–2015)
+-   Research Assistant, University of Alaska Fairbanks — Food Safety and Quality (2009–2011)
+-   Food Quality Assurance Intern, Pasargad Laboratory (2008–2009)
 
 ## Selected Focus Areas
 
@@ -26,11 +26,11 @@ My work is cross-functional, combining microbiology, data analysis, applied food
 -   Predictive microbiology and R-based modeling
 -   Agricultural water and FSMA compliance
 -   Thermal processing and pathogen inactivation
--   Product development and quality (sensory and stability)
+-   Product development and quality/sensory attributes
 
 ## Quick Links
 
-::: {.quick-links}
+::: quick-links
 <a href="https://github.com/naimont" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="GitHub"/> GitHub </a>
 
 <a href="https://zenodo.org/communities/food-environ-virol/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zenodo.svg" alt="Zenodo"/> Zenodo </a>
