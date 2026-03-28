@@ -1,5 +1,6 @@
 ---
 title: "Microbial Persistence in Food Systems"
+format: html
 ---
 
 <p><a class="back-link" href="../projects.html">← Back to Research Projects</a></p>

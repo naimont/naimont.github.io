@@ -1,5 +1,6 @@
 ---
 title: "Microbial Thermal Inactivation and Risk-Based Modeling"
+format: html
 ---
 
 <p><a class="back-link" href="../projects.html">← Back to Research Projects</a></p>

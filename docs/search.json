@@ -74,7 +74,7 @@
     "href": "projects.html#on-this-page",
     "title": "Research Projects",
     "section": "On this page",
-    "text": "On this page\n\nMicrobial Thermal Inactivation and Risk-Based Modeling\nAgricultural Water Treatment and FSMA Compliance\nMicrobial Persistence in Food Systems\nQuantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support\nContact Surface Sanitation Validation and Disinfection Systems\nEnvironmental Monitoring and Field-Based Pathogen Surveillance\nInfectivity Assessment and Method Development\nProduct Development, Processing, and Quality Integration"
+    "text": "On this page\n\nContact Surface Sanitation Validation and Disinfection Systems\nAgricultural Water Treatment and FSMA Compliance\nMicrobial Thermal Inactivation and Risk-Based Modeling\nMicrobial Persistence in Food Systems\nEnvironmental Monitoring and Field-Based Pathogen Surveillance\nQuantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support\nInfectivity Assessment and Method Development\nProduct Development, Processing, and Quality Integration"
   },
   {
     "objectID": "projects/microbial-persistence.html",
@@ -147,13 +147,6 @@
     "text": "Data and Code Availability\nSupporting datasets, modeling workflows, and analysis scripts are publicly available:\n\nMicrobial persistence in agricultural water (2026)\n\nZenodo: https://doi.org/10.5281/zenodo.15374156\n\nGitHub: https://github.com/naimont/Pathogen_Persistance_AgWater.git\n\nMicrobial persistence in agricultural soil (2026)\n\nZenodo: https://doi.org/10.5281/zenodo.16230597\n\nGitHub: https://github.com/naimont/Pathogen_Persistance_AgSoil\n\nQMRA of campylobacteriosis from raw milk (2026, under embargo)\n\nZenodo: https://doi.org/10.5281/zenodo.15390146\n\nGitHub: https://github.com/naimont/Campy_raw_milk_QMRA"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Naim Montazeri, Ph.D.\nAssistant Professor\nFood Science and Human Nutrition Department\nUniversity of Florida\nGainesville, FL 32611\nEmail: nmontazeri@ufl.edu"
-  },
-  {
     "objectID": "projects/microbial-thermal.html",
     "href": "projects/microbial-thermal.html",
     "title": "Microbial Thermal Inactivation and Risk-Based Modeling",
@@ -215,6 +208,62 @@
     "title": "Microbial Thermal Inactivation and Risk-Based Modeling",
     "section": "Data and Code Availability",
     "text": "Data and Code Availability\nAll modeling workflows, datasets, and analysis scripts are publicly available to support reproducibility and transparency:\n\nThermal inactivation of norovirus in the digestive diverticula of Eastern oysters (Crassostrea virginica) (2026)\n\nZenodo (dataset and archived code): https://doi.org/10.5281/zenodo.15609797\n\nGitHub (modeling scripts and workflows): https://github.com/naimont/NoV-thermal-oyster-digestive-tissue\n\nNavigating uncertainties in RT-qPCR and infectivity assessment of norovirus (2025)\n\n\nZenodo (dataset and archived code): https://doi.org/10.5281/zenodo.18245738\n\nGitHub (analysis and modeling workflows): https://github.com/naimont/uncertainities_in_NoV_detection\n\nOyster cooking practices in the United States-based restaurants – a survey (2025)\n\nZenodo (dataset): https://doi.org/10.5281/zenodo.15347152\nGitHub (data and analysis): https://github.com/naimont/oyster-cooking-techniques-survey"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Naim Montazeri, Ph.D.\nAssistant Professor\nFood Science and Human Nutrition Department\nUniversity of Florida\nGainesville, FL 32611\nEmail: nmontazeri@ufl.edu"
+  },
+  {
+    "objectID": "projects/surface-sanitation.html",
+    "href": "projects/surface-sanitation.html",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "",
+    "text": "← Back to Project Portfolio"
+  },
+  {
+    "objectID": "projects/surface-sanitation.html#project-summary",
+    "href": "projects/surface-sanitation.html#project-summary",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "Project Summary",
+    "text": "Project Summary\nImplemented EPA and ASTM guidelines to validate norovirus disinfection on food- and non-food contact and hard-to-clean surfaces under operational conditions. Designed and executed studies incorporating organic load, surface variability, and application constraints to reflect realistic sanitation scenarios and meet industry stakeholder requirements for achieving ≥4-log viral reduction in support of EPA’s disinfectant validation and regulatory compliance.\nDemonstrated efficacy of chlorine- and hydrogen peroxide-based disinfectants across a range of concentrations, contact times, and application methods, including fogging technologies, under simulated organic load conditions. This work supports sanitation validation, environmental monitoring program design, and implementation of risk-based disinfection strategies under real-world conditions."
+  },
+  {
+    "objectID": "projects/surface-sanitation.html#on-this-page",
+    "href": "projects/surface-sanitation.html#on-this-page",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "On this page",
+    "text": "On this page\n\nWhy It Matters\nKey Contributions\nResearch Highlights\nPeer-reviewed Publications\nRelevant Skills and Methods"
+  },
+  {
+    "objectID": "projects/surface-sanitation.html#why-it-matters",
+    "href": "projects/surface-sanitation.html#why-it-matters",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "Why It Matters",
+    "text": "Why It Matters\nSanitation programs are only effective when disinfectants perform under realistic operational conditions rather than idealized laboratory settings. In practice, efficacy can be affected by organic load, surface composition, access limitations, and method of application, especially in hard-to-clean environments.\nThis work addresses those constraints by validating disinfectant performance under simulated real-world conditions and aligning studies with EPA label claim expectations and ASTM efficacy testing frameworks. The results support implementation of risk-based sanitation strategies for food-contact environments and other high-risk settings where consistent viral reduction is critical."
+  },
+  {
+    "objectID": "projects/surface-sanitation.html#key-contributions",
+    "href": "projects/surface-sanitation.html#key-contributions",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "Key Contributions",
+    "text": "Key Contributions\n\nValidated disinfectant performance against norovirus under EPA- and ASTM-aligned conditions\nDesigned efficacy studies incorporating organic load, surface variability, and application constraints\nDemonstrated ≥4-log viral reductions under operationally relevant conditions\nEvaluated both surface application and fogging approaches for hard-to-clean areas\nGenerated data supporting sanitation validation and environmental monitoring program design\nAddressed stakeholder-relevant use scenarios, including high-risk service environments such as cruise line operations"
+  },
+  {
+    "objectID": "projects/surface-sanitation.html#publications-and-presentations",
+    "href": "projects/surface-sanitation.html#publications-and-presentations",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "Publications and Presentations",
+    "text": "Publications and Presentations\n\nPeer-Reviewed Publications\n\nNaim Montazeri*, Clyde Manuel, Eric Moorman, Janak Khatiwada, Leonard Williams, and Lee-Ann Jaykus. 2017. Virucidal activity of fogged chlorine dioxide- and hydrogen peroxide-based disinfectants against human norovirus and its surrogate, feline calicivirus, on hard-to-reach surfaces. Frontiers in Microbiology, 8: 1031. https://doi.org/10.3389/fmicb.2017.01031.\nEric Moorman, Naim Montazeri*., and Lee-Ann Jaykus. 2017. Efficacy of neutral electrolyzed water for inactivation of human norovirus. Applied and Environmental Microbiology, 83: e00653-17. https://doi.org/10.1128/aem.00653-17.\n\n\n\nPresentations\n\nNaim Montazeri*, Eric Moorman, Matthew Moore, Blanca Escudero-Abarca, and Lee-Ann Jaykus. Thermal and chemical inactivation of human norovirus: impacts on viral capsid integrity. UF Emerging Pathogens Institute Research Day, Gainesville, FL. 2018.\nNaim Montazeri*, Eric Moorman, Matthew Moore, Blanca Escudero-Abarca, and Lee-Ann Jaykus. Or-ganic load impacts the virucidal efficacy of heat and chlorine against human norovirus and Tulane virus, a cultivable surrogate. IAFP Annual Meeting, Tampa, FL. 2017.\nNaim Montazeri*, Eric Moorman, and Lee-Ann Jaykus. Inactivation of human norovirus and the Tulane virus surrogate using hydrogen peroxide-based disinfectants. International Calicivirus Conference, Savannah, GA. 2016.\nEric Moorman, Naim Montazeri, and Lee-Ann Jaykus. Antiviral effect of neutral electrolyzed water against human norovirus. IAFP Annual Meeting, St. Louis, MO. 2016.\nEric Moorman, Naim Montazeri, and Lee-Ann Jaykus. Electrolyzed water inactivates human norovirus; impact on viral structure and function. NoroCORE Annual Meeting, Arlington, VA. 2016."
+  },
+  {
+    "objectID": "projects/surface-sanitation.html#relevant-skills-and-methods",
+    "href": "projects/surface-sanitation.html#relevant-skills-and-methods",
+    "title": "Contact Surface Sanitation Validation and Disinfection Systems",
+    "section": "Relevant Skills and Methods",
+    "text": "Relevant Skills and Methods\n\nSanitation validation\nDisinfectant efficacy testing\nEPA label claim-aligned study design\nASTM-aligned efficacy frameworks\nOrganic load simulation\nSurface application and fogging technologies\nViral inactivation assays\nEnvironmental monitoring program support\nRisk-based interpretation of sanitation performance"
   },
   {
     "objectID": "projects/water-sanitation.html",
