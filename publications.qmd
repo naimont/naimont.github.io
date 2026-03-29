@@ -16,7 +16,9 @@ title: "Publications"
     -   [Infectivity Assessment and Method Development](#infectivity-assessment-and-method-development)
     -   [Product Development, Processing, and Quality Integration](#product-development-processing-and-quality-integration)
 
--   [Full list of peer-reviewed publications](#full-list-of-publications)
+-   [Book Chapters](#book-chapters)
+
+-   [Full List of Peer-Reviewed Publications](#full-list-of-peer-reviewed-publications)
 :::
 
 ## Featured Publications {#featured-publications}
@@ -91,15 +93,11 @@ To be added in future updates.
 
 ------------------------------------------------------------------------
 
-## Full list of peer-reviwed publications {#full-list-of-publications}
-
-**\*** denotes corresponding author
-
-## Book Chapters
+## Book Chapters {#book-chapters}
 
 1.  Anita Wright\* and **Naim Montazeri**. 2021. Vibrios. *In* Glenn Morris & Duc J. J. Vugia (Eds.), Foodborne Infections and Intoxications (5th ed., pp. 105–124). Academic Press. <https://doi.org/10.1016/C2018-0-02948-5>.
 
-## Peer-reviewed Publications
+## Full List of Peer-Reviewed Publications {#full-list-of-peer-reviewed-publications}
 
 1.  Nuradeen Garba Yusuf and **Naim Montazeri**\*. 2026. Persistence of human norovirus and *Escherichia coli* in preharvest agricultural water. *Science of the Total Environment*, 1011: 181155. <https://doi.org/10.1016/j.scitotenv.2025.181155>.
 
