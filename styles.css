@@ -9,7 +9,7 @@
 }
 
 body {
-  font-size: 1.05rem;
+  font-size: 1rem;
   line-height: 1.75;
   color: var(--text-main);
 }
@@ -62,7 +62,7 @@ a:hover {
 }
 
 .hero h2 {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 500;
   color: var(--text-subtle);
   margin-bottom: 1.25rem;
@@ -93,11 +93,24 @@ a:hover {
 }
 
 h2 {
-  font-size: 1.6rem;
+  position: relative;
+  padding-left: 14px;
+  font-size: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
   font-weight: 700;
   color: var(--text-main);
+}
+
+h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 6px;
+  width: 4px;
+  height: 70%;
+  background-color: var(--accent);
+  border-radius: 2px;
 }
 
 h3 {
@@ -151,6 +164,28 @@ h2, h3 {
 }
 
 .quick-links span {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: var(--text-subtle);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ddd, transparent);
+  margin: 2rem 0;
+}
+
+.highlight {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.badge {
+  display: inline-block;
+  background: var(--accent-soft);
+  color: var(--accent);
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  margin-right: 6px;
 }
