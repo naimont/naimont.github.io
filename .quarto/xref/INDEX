@@ -40,5 +40,8 @@
   },
   "projects/surface-sanitation.qmd": {
     "surface-sanitation.html": "c1c4e75b"
+  },
+  "misc/expertise.qmd": {
+    "expertise.html": "dd01c83c"
   }
 }

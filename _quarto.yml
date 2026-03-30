@@ -18,8 +18,6 @@ website:
         text: Outreach
       - href: certificates.qmd
         text: Certificates
-      - href: expertise.qmd
-        text: Expertise
       - href: contact.qmd
         text: Contact
     right:
