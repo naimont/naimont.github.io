@@ -5,7 +5,7 @@ title: ""
 ::: hero
 # Naim Montazeri, Ph.D.
 
-## Microbial Food Safety Scientist \| Virology, Sanitation, and Quantitative Risk Assessment
+## Microbial Food Safety Scientist \| Predictive Modeling \| Risk Assessment
 
 I am an Assistant Professor at the University of Florida with over 15 years of experience in microbial food safety (enteric bacteria and viruses), specializing in applied microbiology, sanitation validation, and risk-based decision-making. My work focuses on evaluating pathogen persistence, transfer, and inactivation in foods, agricultural systems, and food-contact surfaces to support product safety, regulatory compliance, and operational food safety programs.
 
