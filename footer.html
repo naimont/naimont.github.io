@@ -1,0 +1,13 @@
+<div class="page-footer-custom">
+  ©️ 2026 Naim Montazeri · Last updated: <span id="last-updated"></span>
+</div>
+
+<script>
+  const date = new Date(document.lastModified);
+  document.getElementById("last-updated").textContent =
+    date.toLocaleDateString(undefined, {
+      year: "numeric",
+      month: "long",
+      day: "numeric"
+    });
+</script>

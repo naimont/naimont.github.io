@@ -189,3 +189,19 @@ hr {
   font-size: 0.8rem;
   margin-right: 6px;
 }
+
+.page-update {
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  color: var(--text-subtle);
+  text-align: right;
+}
+
+.page-footer-custom {
+  margin-top: 3rem;
+  font-size: 0.85rem;
+  color: var(--text-subtle);
+  text-align: right;
+  border-top: 1px solid var(--border-light);
+  padding-top: 1rem;
+}
