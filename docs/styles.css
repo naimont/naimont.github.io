@@ -6,6 +6,8 @@
   --text-subtle: #6b7280;
   --border-light: #e5e7eb;
   --bg-soft: #f8fafc;
+
+  --uf-blue: #0021A5;
 }
 
 body {
@@ -109,7 +111,7 @@ h2::before {
   top: 6px;
   width: 4px;
   height: 70%;
-  background-color: var(--accent);
+  background-color: var(--uf-blue);
   border-radius: 2px;
 }
 
@@ -121,7 +123,8 @@ h3 {
   font-weight: 600;
 }
 
-h2, h3 {
+h2,
+h3 {
   scroll-margin-top: 90px;
 }
 
@@ -188,13 +191,6 @@ hr {
   border-radius: 6px;
   font-size: 0.8rem;
   margin-right: 6px;
-}
-
-.page-update {
-  margin-top: 3rem;
-  font-size: 0.85rem;
-  color: var(--text-subtle);
-  text-align: right;
 }
 
 .page-footer-custom {
