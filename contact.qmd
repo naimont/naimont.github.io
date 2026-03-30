@@ -8,3 +8,15 @@ Food Science and Human Nutrition Department\
 University of Florida\
 Gainesville, FL 32611\
 Email: nmontazeri\@ufl.edu
+
+## Quick Links
+
+::: quick-links
+<a href="https://github.com/naimont" target="_blank"> ![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg){alt="GitHub"} GitHub </a>
+
+<a href="https://zenodo.org/communities/microbial-food-safety/" target="_blank"> ![Zenodo](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zenodo.svg){alt="Zenodo"} Zenodo </a>
+
+<a href="https://www.linkedin.com/in/nmontazeri/" target="_blank"> ![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg){alt="LinkedIn"} LinkedIn </a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=4oergwYAAAAJ" target="_blank"> ![Google Scholar](https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlescholar.svg){alt="Google Scholar"} Google Scholar </a>
+:::
