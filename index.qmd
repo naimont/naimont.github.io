@@ -7,7 +7,7 @@ title: ""
 
 ## Microbial Food Safety Scientist \| Virology, Sanitation, and Quantitative Risk Assessment
 
-I am an Assistant Professor at the University of Florida with over 15 years of experience in microbial food safety, specializing in applied virology, sanitation validation, and risk-based decision-making. My work focuses on evaluating pathogen persistence, transfer, and inactivation in foods, agricultural systems, and food-contact surfaces to support product safety, regulatory compliance, and operational food safety programs.
+I am an Assistant Professor at the University of Florida with over 15 years of experience in microbial food safety (enteric bacteria and viruses), specializing in applied microbiology, sanitation validation, and risk-based decision-making. My work focuses on evaluating pathogen persistence, transfer, and inactivation in foods, agricultural systems, and food-contact surfaces to support product safety, regulatory compliance, and operational food safety programs.
 
 I integrate experimental microbiology with data analysis and predictive modeling in R to quantify microbial behavior under realistic conditions and translate findings into actionable process controls, sanitation strategies, and validation frameworks. My experience includes EPA- and ASTM-aligned disinfection studies, environmental monitoring, agricultural water safety, and thermal process validation in high-risk food systems.
 
@@ -25,7 +25,7 @@ My work is cross-functional and application-driven, bridging microbiology, data 
 ## Core Areas of Expertise
 
 -   Sanitation validation and disinfection systems (EPA- and ASTM-aligned)
--   Applied microbiology and pathogen control (viruses and bacteria)
+-   Applied microbiology and pathogen control (enteric bacteria and viruses)
 -   Environmental monitoring and contamination control programs
 -   Agricultural water safety and FSMA-aligned compliance strategies
 -   Predictive microbiology and quantitative modeling (R-based)
