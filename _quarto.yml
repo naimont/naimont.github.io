@@ -23,8 +23,10 @@ website:
     right:
       - icon: github
         href: https://github.com/naimont
-      - icon: link-45deg
-        href: https://zenodo.org/communities/food-environ-virol/
+
+      - text: "<img src='https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/zenodo.svg' width='18' style='vertical-align: middle;'/>"
+        href: https://zenodo.org/communities/microbial-food-safety/
+
       - icon: linkedin
         href: https://www.linkedin.com/in/nmontazeri/
 
