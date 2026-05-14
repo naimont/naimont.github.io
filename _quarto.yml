@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Naim Montazeri, Ph.D."
+  google-analytics: "G-BXKKJYS4JG"
   navbar:
     left:
       - href: index.qmd
