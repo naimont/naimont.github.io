@@ -1,42 +1,54 @@
 ---
-title: "Certificates & Professional Training"
+title: "Certificates, Training, & Awards"
 ---
 
 ::: on-this-page
 ## On this page
 
--   [Food Safety & Regulatory](#food-safety-regulatory)
--   [Risk Assessment, Modeling & Data Analysis](#risk-assessment-modeling-data-analysis)
--   [Quality Systems & Risk Management](#quality-systems-risk-management)
--   [Laboratory & Applied Methods](#laboratory-applied-methods)
--   [Communication & Professional Development](#communication-professional-development)
+- [Certifications & Professional Training](#certifications-professional-training)
+  - [Food Safety & Regulatory](#food-safety-regulatory)
+  - [Risk Assessment, Modeling & Data Analysis](#risk-assessment-modeling-data-analysis)
+  - [Quality Systems & Risk Management](#quality-systems-risk-management)
+  - [Laboratory & Applied Methods](#laboratory-applied-methods)
+  - [Communication & Professional Development](#communication-professional-development)
+- [Awards & Recognition](#awards-recognition)
 :::
 
-## Food Safety & Regulatory {#food-safety-regulatory}
+## Certifications & Professional Training {#certifications-professional-training}
 
--   **FSPCA Preventive Controls for Human Food 2.0 (PCQI)** – NSF (2026)
--   **HACCP Alliance Certification** – Cornell University (2026)
--   **Seafood HACCP Alliance** – University of Alaska Fairbanks (2010)
--   **Acidified Foods Manufacturing** – NC State University (2017)
+### Food Safety & Regulatory {#food-safety-regulatory}
 
-## Risk Assessment, Modeling & Data Analysis {#risk-assessment-modeling-data-analysis}
+- **FSPCA Preventive Controls for Human Food 2.0 (PCQI)** – NSF (2026)
+- **HACCP Alliance Certification** – Cornell University (2026)
+- **Seafood HACCP Alliance** – University of Alaska Fairbanks (2010)
+- **Acidified Foods Manufacturing** – NC State University (2017)
 
--   **QMRA IV (Quantitative Microbial Risk Assessment)** – Michigan State University (2023)
--   **Modeling Food Safety and Animal Health Risks Using R** – EpiX Analytics (2023)
--   **Programming for Everybody (Python)** – University of Michigan (2026)
+### Risk Assessment, Modeling & Data Analysis {#risk-assessment-modeling-data-analysis}
 
-## Quality Systems & Risk Management {#quality-systems-risk-management}
+- **QMRA IV (Quantitative Microbial Risk Assessment)** – Michigan State University (2023)
+- **Modeling Food Safety and Animal Health Risks Using R** – EpiX Analytics (2023)
+- **Programming for Everybody (Python)** – University of Michigan (2026)
 
--   **Root Cause Analysis for Food Businesses** – Food Standards Agency (2026)
--   **Risk Management – Food Fraud Program (SQF)** (2026)
--   **Risk Management – Food Defense Program (SQF)** (2026)
--   **Lean Six Sigma Foundations** – PMI-aligned (LinkedIn Learning) (2026)
+### Quality Systems & Risk Management {#quality-systems-risk-management}
 
-## Laboratory & Applied Methods {#laboratory-applied-methods}
+- **Root Cause Analysis for Food Businesses** – Food Standards Agency (2026)
+- **Risk Management – Food Fraud Program (SQF)** (2026)
+- **Risk Management – Food Defense Program (SQF)** (2026)
+- **Lean Six Sigma Foundations** – PMI-aligned (LinkedIn Learning) (2026)
 
--   **Detection of Enteric Viruses in Shellfish** – FDA CFSAN (2013)
+### Laboratory & Applied Methods {#laboratory-applied-methods}
 
-## Communication & Professional Development {#communication-professional-development}
+- **Detection of Enteric Viruses in Shellfish** – FDA CFSAN (2013)
 
--   **Strategic Communications Academy** – University of Florida (2019)
--   **Industry Immersion Program** – NC State University (2017)
+### Communication & Professional Development {#communication-professional-development}
+
+- **Strategic Communications Academy** – University of Florida (2019)
+- **Industry Immersion Program** – NC State University (2017)
+
+## Awards & Recognition {#awards-recognition}
+
+- **CALS Exceptional Teaching & Advising Recognition** – University of Florida (2025)
+- **Special Recognition Award** – Florida Association for Food Protection (2023)
+- **Peggy Cotter Travel Award** – American Society for Microbiology (2022)
+- **Laboratorian of the Year** – Florida Association for Food Protection (2020)
+- **True Diversity Champion Award** – University of Florida Graduate School (2019)
