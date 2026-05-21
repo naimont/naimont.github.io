@@ -5,20 +5,20 @@ title: "Publications"
 ::: on-this-page
 ## On this page
 
--   [Featured Publications](#featured-publications)
+- [Featured Publications](#featured-publications)
 
-    -   [Microbial Thermal Inactivation and Risk-Based Modeling](#microbial-thermal-inactivation-and-risk-based-modeling)
-    -   [Agricultural Water Treatment and FSMA Compliance](#agricultural-water-treatment-and-fsma-compliance)
-    -   [Microbial Persistence in Food Systems](#microbial-persistence-in-food-systems)
-    -   [Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support](#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support)
-    -   [Contact Surface Sanitation Validation and Disinfection Systems](#contact-surface-sanitation-validation-and-disinfection-systems)
-    -   [Environmental Monitoring and Field-Based Pathogen Surveillance](#environmental-monitoring-and-field-based-pathogen-surveillance)
-    -   [Infectivity Assessment and Method Development](#infectivity-assessment-and-method-development)
-    -   [Product Development, Processing, and Quality Integration](#product-development-processing-and-quality-integration)
+  - [Microbial Thermal Inactivation and Risk-Based Modeling](#microbial-thermal-inactivation-and-risk-based-modeling)
+  - [Agricultural Water Treatment and FSMA Compliance](#agricultural-water-treatment-and-fsma-compliance)
+  - [Microbial Persistence in Food Systems](#microbial-persistence-in-food-systems)
+  - [Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support](#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support)
+  - [Contact Surface Sanitation Validation and Disinfection Systems](#contact-surface-sanitation-validation-and-disinfection-systems)
+  - [Environmental Monitoring and Field-Based Pathogen Surveillance](#environmental-monitoring-and-field-based-pathogen-surveillance)
+  - [Infectivity Assessment and Method Development](#infectivity-assessment-and-method-development)
+  - [Product Development, Processing, and Quality Integration](#product-development-processing-and-quality-integration)
 
--   [Book Chapters](#book-chapters)
+- [Book Chapters](#book-chapters)
 
--   [Full List of Peer-Reviewed Publications](#full-list-of-peer-reviewed-publications)
+- [Full List of Peer-Reviewed Publications](#full-list-of-peer-reviewed-publications)
 :::
 
 ## Featured Publications {#featured-publications}
@@ -27,69 +27,69 @@ title: "Publications"
 
 ### Microbial Thermal Inactivation and Risk-Based Modeling {#microbial-thermal-inactivation-and-risk-based-modeling}
 
--   Razieh Sadat Mirmahdi, Razieh Farzad, Andrew J. MacIntosh, Arie H. Havelaar, Amarat H. Simonne, **Naim Montazeri**\*. 2025. Oyster cooking practices in United States restaurants – a survey. *PLoS One*, 20(7): e0327330. <https://doi.org/10.1371/journal.pone.0327330>.
+- Razieh Sadat Mirmahdi, Razieh Farzad, Andrew J. MacIntosh, Arie H. Havelaar, Amarat H. Simonne, **Naim Montazeri**\*. 2025. Oyster cooking practices in United States restaurants – a survey. *PLoS One*, 20(7): e0327330. <https://doi.org/10.1371/journal.pone.0327330>.
 
--   Razieh Sadat Mirmahdi and **Naim Montazeri**\*. 2025. Progress and challenges in thermal inactivation of norovirus in oysters. *Critical Reviews in Food Science and Nutrition*, 1–14. <https://doi.org/10.1080/10408398.2025.2467209>.
+- Razieh Sadat Mirmahdi and **Naim Montazeri**\*. 2025. Progress and challenges in thermal inactivation of norovirus in oysters. *Critical Reviews in Food Science and Nutrition*, 1–14. <https://doi.org/10.1080/10408398.2025.2467209>.
 
--   Razieh Sadat Mirmahdi, Samantha Dicker, Nuradeen Yusuf Garba, and **Naim Montazeri**\*. 2025. Navigating uncertainties in RT-qPCR and plaque assay for infectivity assessment of norovirus. *Food and Environmental Virology*, 17(22). <https://doi.org/10.1007/s12560-024-09632-0>.
+- Razieh Sadat Mirmahdi, Samantha Dicker, Nuradeen Yusuf Garba, and **Naim Montazeri**\*. 2025. Navigating uncertainties in RT-qPCR and plaque assay for infectivity assessment of norovirus. *Food and Environmental Virology*, 17(22). <https://doi.org/10.1007/s12560-024-09632-0>.
 
 ------------------------------------------------------------------------
 
 ### Agricultural Water Treatment and FSMA Compliance {#agricultural-water-treatment-and-fsma-compliance}
 
--   Ashlyn Lake, Yusuf Nuradeen Garba, Mya Maybank, Sarah Johnson, Christopher K. Mutch, Alexander Mueck, Simon Riley, Arie H. Havelaar, **Naim Montazeri\***. 2025. Effectiveness of chlorine against Tulane virus, a human norovirus surrogate, and *Escherichia coli* in agricultural water used for frost protection of produce. *Journal of Food Protection*, 88(6): 100524. <https://doi.org/10.1016/j.jfp.2025.100524>.
+- Ashlyn Lake, Yusuf Nuradeen Garba, Mya Maybank, Sarah Johnson, Christopher K. Mutch, Alexander Mueck, Simon Riley, Arie H. Havelaar, **Naim Montazeri\***. 2025. Effectiveness of chlorine against Tulane virus, a human norovirus surrogate, and *Escherichia coli* in agricultural water used for frost protection of produce. *Journal of Food Protection*, 88(6): 100524. <https://doi.org/10.1016/j.jfp.2025.100524>.
 
--   Candace Barnes, Rebecca Barber, Keith Schneider, Michelle Danyluk, Anita Wright, Melissa Jones, and **Naim Montazeri\****.* 2021. Application of chitosan microparticles against human norovirus. Journal of Food Protection, 84(12): 2092–2098. <https://doi.org/10.4315/jfp-21-220>.
+- Candace Barnes, Rebecca Barber, Keith Schneider, Michelle Danyluk, Anita Wright, Melissa Jones, and **Naim Montazeri\****.* 2021. Application of chitosan microparticles against human norovirus. Journal of Food Protection, 84(12): 2092–2098. <https://doi.org/10.4315/jfp-21-220>.
 
 ------------------------------------------------------------------------
 
 ### Microbial Persistence in Food Systems {#microbial-persistence-in-food-systems}
 
--   Nuradeen Garba Yusuf and **Naim Montazeri\****. 2026.* Persistence of human norovirus and *Escherichia coli* in preharvest agricultural water. *Science of the Total Environment*, 1011: 181155. <https://doi.org/10.1016/j.scitotenv.2025.181155>.
+- Nuradeen Garba Yusuf and **Naim Montazeri\****. 2026.* Persistence of human norovirus and *Escherichia coli* in preharvest agricultural water. *Science of the Total Environment*, 1011: 181155. <https://doi.org/10.1016/j.scitotenv.2025.181155>.
 
--   Nuradeen Garba Yusuf, Courtney F Aminirad, Kalmia E Kniel, Sarah Strauss, Michelle D. Danyluk, Keith R. Schneider, and **Naim Montazeri\***. 2025. Human norovirus persists longer than *Escherichia coli* in agricultural sandy soil, independent of plant decaying materials. *Scientific Reports*, 16: 1935. <https://doi.org/10.1038/s41598-025-31728-1>.
+- Nuradeen Garba Yusuf, Courtney F Aminirad, Kalmia E Kniel, Sarah Strauss, Michelle D. Danyluk, Keith R. Schneider, and **Naim Montazeri\***. 2025. Human norovirus persists longer than *Escherichia coli* in agricultural sandy soil, independent of plant decaying materials. *Scientific Reports*, 16: 1935. <https://doi.org/10.1038/s41598-025-31728-1>.
 
 ------------------------------------------------------------------------
 
 ### Quantitative Microbial Risk Assessment (QMRA) and Risk-Based Decision Support {#quantitative-microbial-risk-assessment-qmra-and-risk-based-decision-support}
 
-To be added in future updates.
+- To be updated soon. 
 
 ------------------------------------------------------------------------
 
 ### Contact Surface Sanitation Validation and Disinfection Systems {#contact-surface-sanitation-validation-and-disinfection-systems}
 
--   **Naim Montazeri**\*, Clyde Manuel, Eric Moorman, Janak Khatiwada, Leonard Williams, and Lee-Ann Jaykus. 2017. Virucidal activity of fogged chlorine dioxide- and hydrogen peroxide-based disinfectants against human norovirus and its surrogate, feline calicivirus, on hard-to-reach surfaces. *Frontiers in Microbiology*, 8: 1031. <https://doi.org/10.3389/fmicb.2017.01031>.
+- **Naim Montazeri**\*, Clyde Manuel, Eric Moorman, Janak Khatiwada, Leonard Williams, and Lee-Ann Jaykus. 2017. Virucidal activity of fogged chlorine dioxide- and hydrogen peroxide-based disinfectants against human norovirus and its surrogate, feline calicivirus, on hard-to-reach surfaces. *Frontiers in Microbiology*, 8: 1031. <https://doi.org/10.3389/fmicb.2017.01031>.
 
--   Eric Moorman, **Naim Montazeri**\*, and Lee-Ann Jaykus. 2017. Efficacy of neutral electrolyzed water for inactivation of human norovirus. *Applied and Environmental Microbiology*, 83: e00653-17. <https://doi.org/10.1128/aem.00653-17>.
+- Eric Moorman, **Naim Montazeri**\*, and Lee-Ann Jaykus. 2017. Efficacy of neutral electrolyzed water for inactivation of human norovirus. *Applied and Environmental Microbiology*, 83: e00653-17. <https://doi.org/10.1128/aem.00653-17>.
 
 ------------------------------------------------------------------------
 
 ### Environmental Monitoring and Field-Based Pathogen Surveillance {#environmental-monitoring-and-field-based-pathogen-surveillance}
 
--   **Naim Montazeri**, Morgan Maite, Da Liu, Jiemin Cormier, Matthew Landry, Lucina Lampila, Eric C Achberger, and Marlene Janes\**.* 2015. Surveillance of enteric viruses and microbial indicators in the eastern oysters (*Crassostrea virginica*) and harvest waters along Louisiana Gulf coast. *Journal of Food Science*, 80(5): M1075–M1082. <https://doi.org/10.1111/1750-3841.12871>.
+- **Naim Montazeri**, Morgan Maite, Da Liu, Jiemin Cormier, Matthew Landry, Lucina Lampila, Eric C Achberger, and Marlene Janes\**.* 2015. Surveillance of enteric viruses and microbial indicators in the eastern oysters (*Crassostrea virginica*) and harvest waters along Louisiana Gulf coast. *Journal of Food Science*, 80(5): M1075–M1082. <https://doi.org/10.1111/1750-3841.12871>.
 
--   **Naim Montazeri**, Da Liu, and Marlene Janes\*. 2015. Occurrence of toxigenic *Clostridium difficile* in Louisiana oysters (*Crassostrea virginica*) and environmental waters. *Food and Nutrition Sciences*, 6: 1065–1070. <http://dx.doi.org/10.4236/fns.2015.611110>.
+- **Naim Montazeri**, Da Liu, and Marlene Janes\*. 2015. Occurrence of toxigenic *Clostridium difficile* in Louisiana oysters (*Crassostrea virginica*) and environmental waters. *Food and Nutrition Sciences*, 6: 1065–1070. <http://dx.doi.org/10.4236/fns.2015.611110>.
 
--   **Naim Montazeri**, Dorothee Goettert, Eric C Achberger, Witoon Prinyawiwatkul, and Marlene Janes\*. 2015. Pathogenic enteric viruses and microbial indicators during secondary treatment of municipal wastewater. *Applied and Environmental Microbiology*, 81: 6436–6445. <https://doi.org/10.1128/AEM.01218-15>.
+- **Naim Montazeri**, Dorothee Goettert, Eric C Achberger, Witoon Prinyawiwatkul, and Marlene Janes\*. 2015. Pathogenic enteric viruses and microbial indicators during secondary treatment of municipal wastewater. *Applied and Environmental Microbiology*, 81: 6436–6445. <https://doi.org/10.1128/AEM.01218-15>.
 
 ------------------------------------------------------------------------
 
 ### Infectivity Assessment and Method Development {#infectivity-assessment-and-method-development}
 
--   Razieh Sadat Mirmahdi, Samantha Dicker, Nuradeen Yusuf Garba, and **Naim Montazeri**\*. 2025. Navigating uncertainties in RT-qPCR and plaque assay for infectivity assessment of norovirus. *Food and Environmental Virology*, 17(22). <https://doi.org/10.1007/s12560-024-09632-0>.
+- Razieh Sadat Mirmahdi, Samantha Dicker, Nuradeen Yusuf Garba, and **Naim Montazeri**\*. 2025. Navigating uncertainties in RT-qPCR and plaque assay for infectivity assessment of norovirus. *Food and Environmental Virology*, 17(22). <https://doi.org/10.1007/s12560-024-09632-0>.
 
--   Tautvydas Shuipys and **Naim Montazeri**\*. 2022. Optimized protocols for the propagation and quantification of infectious murine hepatitis virus (MHV-A59) using NCTC clone 1469 and 929 cells. *Methods and Protocols*, 5(1): 5. <https://doi.org/10.3390/mps5010005>.
+- Tautvydas Shuipys and **Naim Montazeri**\*. 2022. Optimized protocols for the propagation and quantification of infectious murine hepatitis virus (MHV-A59) using NCTC clone 1469 and 929 cells. *Methods and Protocols*, 5(1): 5. <https://doi.org/10.3390/mps5010005>.
 
 ------------------------------------------------------------------------
 
 ### Product Development, Processing, and Quality Integration {#product-development-processing-and-quality-integration}
 
--   Alexandra Oliveira, Brian Himelbloom\*, **Naim Montazeri**, Matthew Davenport, Hüseyin Biberoğlu, Katie Brenner, Stuart Thomas, and Charles Crapo. 2014. Development and characterization of fish sausages supplemented with salmon oil. *Journal of Food Processing and Preservation*, 38(4): 1641–1652. <https://doi.org/10.1111/jfpp.12126>.
+- Alexandra Oliveira, Brian Himelbloom\*, **Naim Montazeri**, Matthew Davenport, Hüseyin Biberoğlu, Katie Brenner, Stuart Thomas, and Charles Crapo. 2014. Development and characterization of fish sausages supplemented with salmon oil. *Journal of Food Processing and Preservation*, 38(4): 1641–1652. <https://doi.org/10.1111/jfpp.12126>.
 
--   **Naim Montazeri**, Brian Himelbloom\*, Alexandra Oliveira, Mary Beth Leigh, and Charles Crapo. 2013. Refined liquid smoke: a potential antilisterial additive to cold-smoked sockeye salmon (*Oncorhynchus nerka*). *Journal of Food Protection*, 76(5): 812–819. <https://doi.org/10.4315/0362-028x.jfp-12-368>.
+- **Naim Montazeri**, Brian Himelbloom\*, Alexandra Oliveira, Mary Beth Leigh, and Charles Crapo. 2013. Refined liquid smoke: a potential antilisterial additive to cold-smoked sockeye salmon (*Oncorhynchus nerka*). *Journal of Food Protection*, 76(5): 812–819. <https://doi.org/10.4315/0362-028x.jfp-12-368>.
 
--   **Naim Montazeri**, Alexandra Oliveira\*, Brian Himelbloom, Mary Beth Leigh, and Charles Crapo. 2013. Chemical characterization of commercially refined liquid smokes. *Food Science & Nutrition*, 1(1): 102–115. <https://doi.org/10.1002/fsn3.9>.
+- **Naim Montazeri**, Alexandra Oliveira\*, Brian Himelbloom, Mary Beth Leigh, and Charles Crapo. 2013. Chemical characterization of commercially refined liquid smokes. *Food Science & Nutrition*, 1(1): 102–115. <https://doi.org/10.1002/fsn3.9>.
 
 ------------------------------------------------------------------------
 

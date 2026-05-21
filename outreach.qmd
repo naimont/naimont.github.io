@@ -5,16 +5,16 @@ title: "Outreach & Extension"
 ::: on-this-page
 ## On this page
 
--   [Extension Publications](#extension-publications)
--   [Outreach, Training, and Public Engagement](#outreach-training-and-public-engagement)
--   [Selected Presentations and Engagement Activities](#selected-presentations-and-engagement-activities)
+- [Extension Publications](#extension-publications)
+- [Outreach, Training, and Public Engagement](#outreach-training-and-public-engagement)
+- [Selected Presentations and Engagement Activities](#selected-presentations-and-engagement-activities)
 :::
 
 ### Extension publications {#extension-publications}
 
 Note: EDIS: Electronic Data Information Source (EDIS) is a UF/IFAS peer-reviewed publication system used to share extension scholarship.
 
-1.  Razieh Sadat Mirmahdi, **Naim Montazeri**, Razieh Farzad\*. Regulating Molluscan Shellfish: US and Florida Oversight and the Role of FDA’s Traceability Rule (FSMA 204). *UF/IFAS EDIS*. (under revision).
+1.  Razieh Sadat Mirmahdi, **Naim Montazeri**, Razieh Farzad\*. 2026. Regulating Molluscan Shellfish: US and Florida Oversight and the Role of FDA’s Traceability Rule (FSMA 204). *UF/IFAS EDIS*. (accepted).
 
 2.  Samantha Dicker, Razieh Sadat Mirmahdi, and **Naim Montazeri**\*. Cook it right: a guide to safeguard your food through proper cooking. *UF/IFAS EDIS*. <https://edis.ifas.ufl.edu/publication/FS471>.
 
@@ -26,20 +26,20 @@ Note: EDIS: Electronic Data Information Source (EDIS) is a UF/IFAS peer-reviewed
 
 ### Outreach, Training, and Public Engagement {#outreach-training-and-public-engagement}
 
--   Invited speaker on norovirus control, sanitation strategies, and food safety systems across academic, industry, and extension audiences.
+- Invited speaker on norovirus control, sanitation strategies, and food safety systems across academic, industry, and extension audiences.
 
--   Delivered extension webinars on COVID-19 and food safety through UF/IFAS virtual programs.
+- Delivered extension webinars on COVID-19 and food safety through UF/IFAS virtual programs.
 
--   Presented to stakeholders including aquaculture producers, extension professionals, and regulatory audiences.
+- Presented to stakeholders including aquaculture producers, extension professionals, and regulatory audiences.
 
--   Contributed to public science communication events (e.g., museums, libraries, and community outreach programs).
+- Contributed to public science communication events (e.g., museums, libraries, and community outreach programs).
 
--   Mentored students and trainees in food safety, microbiology, and applied research careers.
+- Mentored students and trainees in food safety, microbiology, and applied research careers.
 
 ### Selected Presentations and Engagement Activities {#selected-presentations-and-engagement-activities}
 
--   **Human norovirus: surface disinfection strategies** – UF/IFAS In-Service Training (2020).
--   **Food safety and COVID-19** – UF/IFAS Virtual Office Hours (2020).
--   **Viruses: our friends and foes** – UF FSHN Club (2019).
--   **Science on Stage: Norovirus** – NC Museum of Natural Sciences: <https://youtu.be/gtwZtPBSgV8,> (2016).
--   **Safety of Louisiana oysters and environmental waters** - SCALE Food Safety Conference. Mississippi Association of Cooperatives - Alcorn State University, Raymond, MS (2015).
+- **Human norovirus: surface disinfection strategies** – UF/IFAS In-Service Training (2020).
+- **Food safety and COVID-19** – UF/IFAS Virtual Office Hours (2020).
+- **Viruses: our friends and foes** – UF FSHN Club (2019).
+- **Science on Stage: Norovirus** – NC Museum of Natural Sciences: <https://youtu.be/gtwZtPBSgV8,> (2016).
+- **Safety of Louisiana oysters and environmental waters** - SCALE Food Safety Conference. Mississippi Association of Cooperatives - Alcorn State University, Raymond, MS (2015).
